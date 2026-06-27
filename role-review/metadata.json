@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "organization": "qiaogr199",
+  "date": "June 2026",
+  "abstract": "Code Reviewer role — blocking/non-blocking review with boundary compliance checks against dev-log. Writes 06-review.md. Only blocking issues prevent ops."
+}

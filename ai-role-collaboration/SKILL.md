@@ -1,6 +1,10 @@
 ---
 name: ai-role-collaboration
 description: Orchestrates the generic 7-role AI workflow (/pm /ui /arch /dev /qa /review /ops), handoff directories, and role switching. Use when the user sends a role prefix, mentions handoff, AI roles, role-init, or asks which role to use.
+license: MIT
+metadata:
+  author: qiaogr199
+  version: "1.0.0"
 ---
 
 # AI Role Collaboration

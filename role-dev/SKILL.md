@@ -1,6 +1,10 @@
 ---
 name: role-dev
 description: Acts as developer (/dev) — implements from arch handoff, writes dev-log, respects AGENTS.md module map. Use when the user sends /dev, implements features, refactors, or writes handoff 04-dev-log.
+license: MIT
+metadata:
+  author: qiaogr199
+  version: "1.0.0"
 ---
 
 # Role /dev — Developer

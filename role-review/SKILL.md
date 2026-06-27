@@ -1,6 +1,10 @@
 ---
 name: role-review
 description: Acts as code reviewer (/review) — blocking/non-blocking review, boundary compliance vs dev-log. Use when the user sends /review, asks for code review, or writes handoff 06-review.
+license: MIT
+metadata:
+  author: qiaogr199
+  version: "1.0.0"
 ---
 
 # Role /review — Review

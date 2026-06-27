@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "organization": "qiaogr199",
+  "date": "June 2026",
+  "abstract": "Ops/Release role — ship checklist, CI guidance, rollback planning. Proposes commit messages without pushing. Final step in the /pm → /ops pipeline."
+}

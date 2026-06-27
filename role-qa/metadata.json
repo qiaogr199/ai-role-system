@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "organization": "qiaogr199",
+  "date": "June 2026",
+  "abstract": "QA role — runs project test commands, writes 05-qa-report.md, triggers dev rollback on failure. Uses test commands defined in role-project.md."
+}

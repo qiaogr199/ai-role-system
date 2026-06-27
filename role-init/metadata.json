@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "organization": "qiaogr199",
+  "date": "June 2026",
+  "abstract": "Bootstrap skill that initializes the 7-role AI collaboration system onto any repository. Generates role-project.md, AGENTS.md, handoff templates, and role-router from codebase scanning."
+}

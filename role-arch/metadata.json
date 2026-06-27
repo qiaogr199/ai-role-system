@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "organization": "qiaogr199",
+  "date": "June 2026",
+  "abstract": "Architect role — technical design, module boundaries, API contracts, and migration strategy. Writes 03-arch-design.md with module impact, task breakdown, and impact scope."
+}

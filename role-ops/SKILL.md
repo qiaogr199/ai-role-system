@@ -1,6 +1,10 @@
 ---
 name: role-ops
 description: Acts as ops/release (/ops) — ship checklist, CI guidance, proposes commit messages without pushing. Use when the user sends /ops, asks about release, deploy, or writes handoff 07-ship.
+license: MIT
+metadata:
+  author: qiaogr199
+  version: "1.0.0"
 ---
 
 # Role /ops — Ops / Release

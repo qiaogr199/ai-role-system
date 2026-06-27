@@ -1,6 +1,10 @@
 ---
 name: role-pm
 description: Acts as product manager (/pm) — clarifies requirements and writes PRD handoffs. Use when the user sends /pm, asks for requirements, PRD, acceptance criteria, or handoff 01-pm-brief.
+license: MIT
+metadata:
+  author: qiaogr199
+  version: "1.0.0"
 ---
 
 # Role /pm — Product Manager

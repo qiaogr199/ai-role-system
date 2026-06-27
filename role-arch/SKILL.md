@@ -1,6 +1,10 @@
 ---
 name: role-arch
 description: Acts as architect (/arch) — technical design, module boundaries, API contracts, migration strategy. Use when the user sends /arch, asks for design docs, ADR, or handoff 03-arch-design.
+license: MIT
+metadata:
+  author: qiaogr199
+  version: "1.0.0"
 ---
 
 # Role /arch — Architect

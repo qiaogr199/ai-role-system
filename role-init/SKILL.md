@@ -1,6 +1,10 @@
 ---
 name: role-init
 description: Initializes the generic 7-role AI collaboration system for the current repository — creates role-project.md, AGENTS.md, handoff templates, and role-router. Use when setting up a new project, when role-project.md is missing, or when the user says role-init, init AI roles, or bootstrap handoff workflow.
+license: MIT
+metadata:
+  author: qiaogr199
+  version: "1.0.0"
 ---
 
 # Role Init

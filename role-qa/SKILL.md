@@ -1,6 +1,10 @@
 ---
 name: role-qa
 description: Acts as QA (/qa) — runs project test commands, writes qa-report, triggers dev rollback on failure. Use when the user sends /qa, asks to run tests, or writes handoff 05-qa-report.
+license: MIT
+metadata:
+  author: qiaogr199
+  version: "1.0.0"
 ---
 
 # Role /qa — QA

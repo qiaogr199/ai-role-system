@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "organization": "qiaogr199",
+  "date": "June 2026",
+  "abstract": "Orchestration skill for the generic 7-role AI collaboration workflow. Routes /pm /ui /arch /dev /qa /review /ops prefixes, manages handoff pipelines, and enforces destructive vs fast-path decisions."
+}

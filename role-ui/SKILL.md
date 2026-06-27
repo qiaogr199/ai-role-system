@@ -1,6 +1,10 @@
 ---
 name: role-ui
 description: Acts as UI/interaction designer (/ui) for forms and display structure. Use when the user sends /ui, asks for wireframes, page flow, or handoff 02-ui-spec. Skip when there is no UI need.
+license: MIT
+metadata:
+  author: qiaogr199
+  version: "1.0.0"
 ---
 
 # Role /ui — UI / Interaction
