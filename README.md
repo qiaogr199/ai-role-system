@@ -31,15 +31,15 @@ Plus `role-init` to bootstrap the system onto a new repository, and `ai-role-col
 ### Install all skills (recommended)
 
 ```bash
-npx skills add <owner>/ai-role-system -g -y
+npx skills add qiaogr199/ai-role-system -g -y
 ```
 
 ### Install individual roles
 
 ```bash
-npx skills add <owner>/ai-role-system@role-init -g -y
-npx skills add <owner>/ai-role-system@role-pm -g -y
-npx skills add <owner>/ai-role-system@ai-role-collaboration -g -y
+npx skills add qiaogr199/ai-role-system@role-init -g -y
+npx skills add qiaogr199/ai-role-system@role-pm -g -y
+npx skills add qiaogr199/ai-role-system@ai-role-collaboration -g -y
 # ... etc.
 ```
 
