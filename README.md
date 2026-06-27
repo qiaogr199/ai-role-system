@@ -90,19 +90,23 @@ The skills are generic. All project-specific facts live in `role-project.md`.
 
 ```
 ai-role-system/
-  ai-role-collaboration/   # Orchestration skill
-    SKILL.md
-    reference.md
-  role-init/               # Bootstrap for new repos
-    SKILL.md
-    templates/             # Handoff & config templates
-  role-pm/                 # Product Manager
-  role-ui/                 # UI Designer
-  role-arch/               # Architect
-  role-dev/                # Developer
-  role-qa/                 # QA
-  role-review/             # Code Reviewer
-  role-ops/                # Ops/Release
+  skills/
+    ai-role-collaboration/   # Orchestration skill
+      SKILL.md
+      metadata.json
+      reference.md
+    role-init/               # Bootstrap for new repos
+      SKILL.md
+      metadata.json
+      templates/             # Handoff & config templates
+    role-pm/                 # Product Manager
+    role-ui/                 # UI Designer
+    role-arch/               # Architect
+    role-dev/                # Developer
+    role-qa/                 # QA
+    role-review/             # Code Reviewer
+    role-ops/                # Ops/Release
+  skills.sh.json             # skills.sh directory manifest
 ```
 
 ## License
